@@ -88,7 +88,7 @@ float: left;
 }
 
 .heading-section{
-    width: 90px;
+    width: 80px;
     float: left;
     border-bottom: 1px solid #cfcfcf;
     padding-bottom: 0px;
@@ -104,7 +104,7 @@ float: left;
   .head-title{
     margin: 0px;
     padding: 0px;
-    font-size: 16px;
+    font-size: 10px;
     font-weight: 600;
     padding-bottom: 5px;
   }
@@ -384,6 +384,7 @@ float: left;
     color: #fff;
     text-align: center;
 }
+
 
 
 
